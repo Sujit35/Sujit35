@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sujit
 - 👀 I’m interested in Python Programming 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python and java
+- 📫 Reach me at :sjtkmr35@gmail.com
 
 <!---
 Sujit35/Sujit35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
